@@ -2,13 +2,13 @@
 111210555 楊莉思
 
 ## 習題 1 
-[Not](https://github.com/cindycallista/_co/blob/master/01/Not.hdl)[And](https://github.com/cindycallista/_co/blob/master/01/And.hdl)[Or](https://github.com/cindycallista/_co/blob/master/01/Or.hdl)[Xor](https://github.com/cindycallista/_co/blob/master/01/Xor.hdl)[Mux](https://github.com/cindycallista/_co/blob/master/01/Mux.hdl)[Dmux](https://github.com/cindycallista/_co/blob/master/01/DMux.hdl)
+[Not](https://github.com/cindycallista/_co/blob/master/01/Not.hdl) [And](https://github.com/cindycallista/_co/blob/master/01/And.hdl) [Or](https://github.com/cindycallista/_co/blob/master/01/Or.hdl) [Xor](https://github.com/cindycallista/_co/blob/master/01/Xor.hdl) [Mux](https://github.com/cindycallista/_co/blob/master/01/Mux.hdl) [Dmux](https://github.com/cindycallista/_co/blob/master/01/DMux.hdl)
 [電路圖](https://github.com/cindycallista/_co/blob/master/circuit/hw1.jpg)
 參考 nand2tetris 教材
 
 ## 習題 2
-[Not16](https://github.com/cindycallista/_co/blob/master/01/Not16.hdl)[And16](https://github.com/cindycallista/_co/blob/master/01/And16.hdl)[Or16](https://github.com/cindycallista/_co/blob/master/01/Or16.hdl)[Mux16](https://github.com/cindycallista/_co/blob/master/01/Mux16.hdl)[Or8Way](https://github.com/cindycallista/_co/blob/master/01/Or8Way.hdl)
-[Mux4Way16](https://github.com/cindycallista/_co/blob/master/01/Mux4Way16.hdl)[Mux8Way16](https://github.com/cindycallista/_co/blob/master/01/Mux8Way16.hdl)[DMux4Way](https://github.com/cindycallista/_co/blob/master/01/DMux4Way.hdl)[DMux8Way](https://github.com/cindycallista/_co/blob/master/01/DMux8Way.hdl)
+[Not16](https://github.com/cindycallista/_co/blob/master/01/Not16.hdl) [And16](https://github.com/cindycallista/_co/blob/master/01/And16.hdl) [Or16](https://github.com/cindycallista/_co/blob/master/01/Or16.hdl)[Mux16](https://github.com/cindycallista/_co/blob/master/01/Mux16.hdl) [Or8Way](https://github.com/cindycallista/_co/blob/master/01/Or8Way.hdl)
+[Mux4Way16](https://github.com/cindycallista/_co/blob/master/01/Mux4Way16.hdl) [Mux8Way16](https://github.com/cindycallista/_co/blob/master/01/Mux8Way16.hdl)[DMux4Way](https://github.com/cindycallista/_co/blob/master/01/DMux4Way.hdl) [DMux8Way](https://github.com/cindycallista/_co/blob/master/01/DMux8Way.hdl)
 [電路圖](https://github.com/cindycallista/_co/blob/master/circuit/hw2.jpg)
 參考 nand2tetris 教材, chatgpt 協助
 
